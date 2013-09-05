@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0mRunning Hello [0m
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/home/maciek/scala_craft/scala_programing/school/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0m	/home/maciek/.sbt/boot/scala-2.10.2/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/home/maciek/.ivy2/cache/me.shadaj/scala-minecraft-bukkit_2.10/jars/scala-minecraft-bukkit_2.10-0.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/maciek/.ivy2/cache/org.bukkit/bukkit/jars/bukkit-1.4.7-R1.0.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
